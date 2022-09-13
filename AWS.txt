@@ -1,0 +1,5 @@
+we will talk today about cloud models
+we have 3 main models
+1-Iaas
+2-Paas
+3-Saas
